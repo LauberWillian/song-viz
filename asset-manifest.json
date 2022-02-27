@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.42cc8b22.chunk.css",
+    "main.js": "./static/js/main.a321965e.chunk.js",
+    "main.js.map": "./static/js/main.a321965e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.373e0700.js",
+    "runtime-main.js.map": "./static/js/runtime-main.373e0700.js.map",
+    "static/js/2.795276d1.chunk.js": "./static/js/2.795276d1.chunk.js",
+    "static/js/2.795276d1.chunk.js.map": "./static/js/2.795276d1.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.5ad1eebb394c5055818393eb867c1347.js": "./precache-manifest.5ad1eebb394c5055818393eb867c1347.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.42cc8b22.chunk.css.map": "./static/css/main.42cc8b22.chunk.css.map",
+    "static/js/2.795276d1.chunk.js.LICENSE.txt": "./static/js/2.795276d1.chunk.js.LICENSE.txt",
+    "static/js/main.a321965e.chunk.js.LICENSE.txt": "./static/js/main.a321965e.chunk.js.LICENSE.txt",
+    "static/media/IZECOLD - Close (feat. Molly Ann) [NCS Release].mp3": "./static/media/IZECOLD - Close (feat. Molly Ann) [NCS Release].3fddc9a8.mp3",
+    "static/media/close brooks remix cover.jpg": "./static/media/close brooks remix cover.24df8514.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.373e0700.js",
+    "static/js/2.795276d1.chunk.js",
+    "static/css/main.42cc8b22.chunk.css",
+    "static/js/main.a321965e.chunk.js"
+  ]
+}
