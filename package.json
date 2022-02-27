@@ -1,10 +1,10 @@
 {
-  "name": "song-viz",
+  "name": "song-viz-w",
   "version": "1.0.5",
   "description": "React Song Visualizer",
   "author": "d-e-v-esh",
   "license": "MIT",
-  "repository": "d-e-v-esh/song-viz",
+  "repository": "WillianLauber/song-viz",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
