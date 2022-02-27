@@ -15,14 +15,9 @@ https://user-images.githubusercontent.com/59534570/147430697-01fb9d2d-e58d-41a7-
 ### npm
 
 ```bash
-npm install song-viz
-```
+npm install --save https://github.com/WillianLauber/song-viz/tarball/master```
 
-### yarn
 
-```bash
-yarn add song-viz
-```
 
 ## Usage
 
